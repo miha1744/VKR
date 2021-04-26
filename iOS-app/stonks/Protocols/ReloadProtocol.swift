@@ -1,0 +1,3 @@
+protocol ReloadProtocol {
+    func reload()
+}
